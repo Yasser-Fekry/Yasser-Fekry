@@ -30,7 +30,3 @@ I am a **Bug Bounty Hunter**, Skilled **Penetration Tester**, and **Full Stack D
 ## 📊 Stats :
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&locale=en" alt="Yasser-Fekry" /></p>
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Yasser-Fekry=radical)](https://github.com/anuraghazra/github-readme-stats)
