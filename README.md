@@ -33,7 +33,7 @@ I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠
 
 ## 📊 Stats :
 
-![Yasser-Fekry GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=radical)
 
 ---
 
