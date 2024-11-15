@@ -7,7 +7,8 @@
 
 ## 👑 About Me :
 
-I am a **Bug Bounty Hunter**, Skilled **Penetration Tester**, and **Full Stack Developer** with extensive experience in identifying and exploiting security vulnerabilities in both web and mobile applications. My expertise lies in testing systems for weaknesses, providing security recommendations, and ensuring applications are robust and secure. I combine my knowledge of development with Practical Security Techniques to deliver both innovative and secure solutions 💻👾 .
+I am a ** Bug Bounty Hunter 🕵️‍♂️ **, Skilled ** Penetration Tester 🛠️**, and ** Full Stack Developer 💻 ** with extensive experience in identifying and exploiting security vulnerabilities 🔍 in both web 🌐 and mobile 📱 applications. My expertise lies in testing systems for weaknesses 🧑‍💻, providing security recommendations 📝, and ensuring applications are robust and secure 🔒.
+
 
    <p align="left">
       <a href="">
