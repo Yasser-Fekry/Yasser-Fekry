@@ -1,10 +1,10 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<h1 align="center"><b>Hi , I'm Yasser Fekry </b>picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> </h1>
+<h1 align="center"><b>Hi , I'm Yasser Fekry </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 **`Full Stack & Bug Bounty Hunter & Penetration Tester (Red Team 💻🔥)`**
 
-## About Me 👑💻
+<h1><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me 👑 :-</h1>
 
 I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠️**, and **Full Stack Developer 💻** with extensive experience in identifying and exploiting security vulnerabilities 🔍 in both web 🌐 and mobile 📱 applications. My expertise lies in testing systems for weaknesses 🧑‍💻, providing security recommendations 📝, and ensuring applications are robust and secure 🔒.
 
