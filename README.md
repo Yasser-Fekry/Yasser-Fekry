@@ -25,7 +25,7 @@ I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,notion,docker,vim,neovim,vscode,visualstudio,androidstudio,dart,flutter,arch,bash,py,cpp,cs,css,html,js,nodejs,react,mysql,dotnet,kali,linux,redhat,obsidian,ps" />
+    <img src="https://skillicons.dev/icons?i=git,github,notion,docker,vim,neovim,vscode,visualstudio,androidstudio,dart,flutter,arch,bash,py,cpp,cs,css,html,js,nodejs,react,mysql,dotnet,kali,linux,redhat,npm,obsidian,ps,linkedin" />
   </a>
 </p>
 
