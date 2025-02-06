@@ -21,7 +21,7 @@ I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠
 
 ---
 
-## Languages and Tools 🧰⚙️:-
+## Languages and Tools 🧰
 
 <p align="center">
   <a href="https://skillicons.dev">
