@@ -2,7 +2,7 @@
 
 <h1 align="center"><b>Hi , I'm Yasser Fekry </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1 align = "center">▌│█║▌║▌║ About ME  ║▌║▌║█│▌<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h1>
+<h1 align = "center">▌│█║▌║▌║ About Me ║▌║▌║█│▌<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h1>
 
 I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠️**, and **Full Stack Developer 💻** with extensive experience in identifying and exploiting security vulnerabilities 🔍 in both web 🌐 and mobile 📱 applications. My expertise lies in testing systems for weaknesses 🧑‍💻, providing security recommendations 📝, and ensuring applications are robust and secure 🔒.
 
