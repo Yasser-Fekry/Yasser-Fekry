@@ -4,7 +4,7 @@
 
 **`Full Stack & Bug Bounty Hunter & Penetration Tester (Red Team 💻🔥)`**
 
-## About Me 👑 :-
+##<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me 👑 :-
 
 I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠️**, and **Full Stack Developer 💻** with extensive experience in identifying and exploiting security vulnerabilities 🔍 in both web 🌐 and mobile 📱 applications. My expertise lies in testing systems for weaknesses 🧑‍💻, providing security recommendations 📝, and ensuring applications are robust and secure 🔒.
 
