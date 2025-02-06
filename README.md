@@ -23,17 +23,17 @@ I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠
 
 ## Languages and Tools 🧰⚙️:-
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
-
----
-
-## Stats 📊 :-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,notion,docker,vim,neovim,vscode,visualstudio,androidstudio,dart,flutter,arch,bash,py,cpp,cs,css,html,js,nodejs,react,mysql,dotnet,kali,linux,redhat,obsidian,ps" />
   </a>
 </p>
+
+---
+
+## Stats 📊 :-
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=radical)
 
 ---
 
