@@ -42,7 +42,7 @@ if __name__ == "__main__":
     about_me.display_about_me()
 ```
 
-<h2 align = "center"> Languages and Tools 🧰</h2>
+<h2 align = "center">▌│║▌║▌║  Languages and Tools 🧰 ║▌║▌║│▌</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@ if __name__ == "__main__":
   </a>
 </p>
 
-<h2 align = "center"> Stats 📊</h2>
+<h2 align = "center"> ▌│║▌║▌║  Stats 📊 ║▌║▌║│▌</h2>
 
 <table><tr><td valign="top" width="50%">
 
