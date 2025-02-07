@@ -20,8 +20,6 @@
 
 I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠️**, and **Full Stack Developer 💻** with extensive experience in identifying and exploiting security vulnerabilities 🔍 in both web 🌐 and mobile 📱 applications. My expertise lies in testing systems for weaknesses 🧑‍💻, providing security recommendations 📝, and ensuring applications are robust and secure 🔒.
 
----
-
 ## Languages and Tools 🧰
 
 <p align="center">
@@ -30,13 +28,9 @@ I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠
   </a>
 </p>
 
----
-
-## Stats 📊 :-
+## Stats 📊
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=radical)
-
----
 
 ##
 
