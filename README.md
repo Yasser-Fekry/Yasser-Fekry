@@ -14,7 +14,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-<h1 align="center"><b> ( Hi , I'm Yasser Fekry 👑 ) </b></h1>
+<h1 align="center"><b> < Hi , I'm Yasser Fekry 👑 > </b></h1>
 
 <h2 align = "center">▌│║▌║▌║ About Me ║▌║▌║│▌<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h2>
 
