@@ -54,6 +54,46 @@ if __name__ == "__main__":
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=radical)
 
+---
+
+<table><tr><td valign="top" width="50%">
+
+<br>
+
+<img src="./assets/metrics.plugin.overview.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.isocalendar.fullyear.svg" >
+
+</td></tr></table>
+
+<table><tr><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.activity.svg">
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.stargazers.svg" >
+
+</td></tr></table>
+
+</details>
+
+---
+
+<img src="./assets/metrics.plugin.wakatime.svg">
+
+---
+
+<img src="./assets/metrics.plugin.achievements.svg">
+
+---
+
+[![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=3bsalam-1&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/3bsalam-1?tab=repositories)<!--(https://github.com/ryo-ma/github-profile-trophy)-->
+
+</div>
+
 ##
 
 <p align="center" width="50">
