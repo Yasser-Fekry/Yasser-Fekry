@@ -16,7 +16,7 @@
 
 <h1 align="center"><b> ( Hi , I'm Yasser Fekry 👑 ) </b></h1>
 
-<h2 align = "center">▌│║▌║▌║ About Me ║▌║▌║│▌<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h2>
+<h2 align = "left">▌│║▌║▌║ About Me ║▌║▌║│▌<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h2>
 
 ```python
 pragma python ^3.12.1
@@ -37,16 +37,6 @@ class AboutMe:
             "Providing security recommendations 📝",
             "Ensuring applications are robust and secure 🔒"
         ]
-
-    def display_about_me(self):
-        print(f"Name: {self.name}\n")
-        print("Roles:")
-        for role in self.roles:
-            print(f"- {role}")
-        print(f"\nExperience: {self.experience}\n")
-        print("Expertise:")
-        for skill in self.expertise:
-            print(f"- {skill}")
 if __name__ == "__main__":
     about_me = AboutMe()
     about_me.display_about_me()
