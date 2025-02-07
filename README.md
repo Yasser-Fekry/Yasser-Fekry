@@ -52,10 +52,6 @@ if __name__ == "__main__":
 
 ## Stats 📊
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=radical)
-
----
-
 <table><tr><td valign="top" width="50%">
 
 <br>
