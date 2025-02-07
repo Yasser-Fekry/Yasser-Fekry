@@ -1,13 +1,13 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
 </div>
-<div id="badges"align="center">
+<div id="badges"align="left">
 
 ---
 
 <h1 align="center"><b>Hi , I'm Yasser Fekry </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align = "center">▌│█║▌║▌║ About Me ║▌║▌║█│▌<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h2>
+<h2 align = "center">▌│║▌║▌║ About Me ║▌║▌║│▌<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h2>
 
 I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠️**, and **Full Stack Developer 💻** with extensive experience in identifying and exploiting security vulnerabilities 🔍 in both web 🌐 and mobile 📱 applications. My expertise lies in testing systems for weaknesses 🧑‍💻, providing security recommendations 📝, and ensuring applications are robust and secure 🔒.
 
@@ -37,20 +37,6 @@ I am a **Bug Bounty Hunter 🕵️‍♂️**, Skilled **Penetration Tester 🛠
 ## Stats 📊 :-
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=radical)
-
----
-
----
-
-### Most Use 💜:
-
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yasser-Fekry-1&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/Yasser-Fekry?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasser-Fekry-1&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/Yasser-Fekry?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
-
----
 
 ---
 
