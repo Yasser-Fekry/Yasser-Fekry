@@ -3,7 +3,9 @@
 </div>
 <div id="badges"align="left">
 
-<h1 align="center"><b> 【 Ｙａｓｓｅｒ Ｆｅｋｒｙ 𓆰♕𓆪 】  </b</h1>
+---
+
+<h1 align="center"> 【 Ｙａｓｓｅｒ Ｆｅｋｒｙ 𓆰♕𓆪 】</h1>
 
 ---
 
