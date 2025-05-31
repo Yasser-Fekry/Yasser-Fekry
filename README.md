@@ -1,7 +1,17 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center"><b> < Hi , I'm Yasser Fekry 👑 > </b></h1>
 
-<h2 align = "center">▌│║▌║▌║ About Me ║▌║▌║│▌<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></h2>
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
+```
+   _    _ _       _____ _            __     __                       ______   _                
+  | |  | (_)     |_   _( )           \ \   / /                      |  ____| | |               
+  | |__| |_        | | |/ _ __ ___    \ \_/ /_ _ ___ ___  ___ _ __  | |__ ___| | ___ __ _   _  
+  |  __  | |       | |   | '_ ` _ \    \   / _` / __/ __|/ _ \ '__| |  __/ _ \ |/ / '__| | | | 
+  | |  | | |  _   _| |_  | | | | | |    | | (_| \__ \__ \  __/ |    | | |  __/   <| |  | |_| | 
+  |_|  |_|_| ( ) |_____| |_| |_| |_|    |_|\__,_|___/___/\___|_|    |_|  \___|_|\_\_|   \__, | 
+             |/                                                                          __/ | 
+                                                                                        |___/  
+```
+<h1><b>  ▌│║▌║▌║ About Me ║▌║▌║│▌  </b></h1>
 
 ```python
 pragma python ^3.12.1
@@ -27,7 +37,7 @@ if __name__ == "__main__":
     about_me.display_about_me()
 ```
 
-<h2 align = "center">▌▌║  Languages and Tools 🧰 ║▌│▌</h2>
+<h2>▌▌║  Languages and Tools 🧰 ║▌│▌</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +45,7 @@ if __name__ == "__main__":
   </a>
 </p>
 
-<h2 align = "center"> ▌│║▌║▌║  Stats 📊 ║▌║▌║│▌</h2>
+<h2> ▌│║▌║▌║  Stats 📊 ║▌║▌║│▌</h2>
 
 <table><tr><td valign="top" width="50%">
 
