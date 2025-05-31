@@ -12,7 +12,7 @@
 
 ┌──┤ WHOAMI  ├─────────▰▰▰
 │
-├─▣  "Bug Bounty Hunter 🕵️‍♂️",                  
+├─▣  "Full Time Bug Bounty Hunter 🕵️‍♂️",                  
 ├─▣  "Skilled Penetration Tester 🛠️", 
 ├─▣  "Full Stack Developer 💻",
 ├─▣  "I am mostly available at <a href="https://t.me/Dev_YasserFekry">Telegram</a>",
