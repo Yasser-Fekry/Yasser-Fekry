@@ -1,3 +1,4 @@
+<img src="https://www.offsec.com/_astro/PEN200.lfdQIiyD.png" width="180" />
 <h1 align="left">Hi , I'm Yasser-Ferky</h1>
 <h3 align="left">Full-Time Bug Bounty Hunter | Security Researche| Web Application Penetration Tester</h3>
 <p align="left">
@@ -86,18 +87,6 @@ business flows, and real-world attack surfaces.
 
 > Automation finds bugs.  
 > **Manual testing finds impact.**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasser-Fekry&theme=tokyonight" />
-</p>
 
 ---
 
