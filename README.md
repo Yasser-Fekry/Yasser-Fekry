@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yasser-Ferky</h1>
-<h3 align="center">Full-Time Bug Bounty Hunter | Security Researcher</h3>
-<h4 align="center">Web Application Penetration Tester</h4>
-
-<p align="center">
+<h1 align="left">Hi , I'm Yasser-Ferky</h1>
+<h3 align="left">Full-Time Bug Bounty Hunter | Security Researche| Web Application Penetration Tester</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-red?style=for-the-badge&logo=hackerone" />
   <img src="https://img.shields.io/badge/Web%20Security-Pentesting-blue?style=for-the-badge&logo=owasp" />
 </p>
@@ -94,11 +92,11 @@ business flows, and real-world attack surfaces.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yasser-Fekry&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasser-Fekry&theme=tokyonight" />
 </p>
 
 ---
