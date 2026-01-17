@@ -1,5 +1,5 @@
 
-![OffSec | 600](https://www.offsec.com/_astro/PEN200.lfdQIiyD.png)
+![OffSec|500](https://www.offsec.com/_astro/PEN200.lfdQIiyD.png)
 
 <h1 align="left">Hi , I'm Yasser Fekry</h1>
 <h3 align="left">Full-Time Bug Bounty Hunter | Security Researcher | Web Application Penetration Tester</h3>
