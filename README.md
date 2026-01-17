@@ -1,6 +1,9 @@
-![test|700](https://www.offsec.com/_astro/PEN200.lfdQIiyD.png)
-<h1 align="left">Hi , I'm Yasser-Ferky</h1>
-<h3 align="left">Full-Time Bug Bounty Hunter | Security Researche| Web Application Penetration Tester</h3>
+
+![OffSec | 600](https://www.offsec.com/_astro/PEN200.lfdQIiyD.png)
+
+<h1 align="left">Hi , I'm Yasser Fekry</h1>
+<h3 align="left">Full-Time Bug Bounty Hunter | Security Researcher | Web Application Penetration Tester</h3>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-red?style=for-the-badge&logo=hackerone" />
   <img src="https://img.shields.io/badge/Web%20Security-Pentesting-blue?style=for-the-badge&logo=owasp" />
@@ -86,13 +89,15 @@ business flows, and real-world attack surfaces.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Yasser-Fekry">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="https://linkedin.com/in/YasserFekry">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://t.me/Dev_YasserFekry">
+    <img src="https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
 </p>
 
 ---
-
