@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-red?style=for-the-badge&logo=hackerone" />
   <img src="https://img.shields.io/badge/Web%20Security-Pentesting-blue?style=for-the-badge&logo=owasp" />
 </p>
-
 ---
-
 ## 🧠 About Me
 
 🛡️ Full-time **Bug Bounty Hunter** and **Security Researcher**  
@@ -19,9 +17,7 @@
 
 I enjoy breaking applications by deeply understanding their logic,
 business flows, and real-world attack surfaces.
-
 ---
-
 ## 🔍 Vulnerabilities I Hunt
 
 - Broken Access Control  
@@ -31,9 +27,7 @@ business flows, and real-world attack surfaces.
 - XSS & CSRF  
 - SQL Injection  
 - API Security Issues  
-
 ---
-
 ## 🧰 Tools & Technologies
 
 ### 🔐 Security / OS / Core
@@ -65,7 +59,6 @@ business flows, and real-world attack surfaces.
 </p>
 
 ---
-
 ## 🛠️ Skills
 
 - Web Application Penetration Testing  
@@ -74,18 +67,7 @@ business flows, and real-world attack surfaces.
 - OWASP Top 10  
 - API Security Testing  
 - Authentication & Authorization Testing  
-
 ---
-
-## 📌 Currently
-
-- Actively hunting on **public & private bug bounty programs**
-- Enhancing real-world exploitation techniques
-- Studying modern web application architectures
-- Solving CTFs & practical attack scenarios
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -99,5 +81,4 @@ business flows, and real-world attack surfaces.
     <img src="https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
 </p>
-
 ---
