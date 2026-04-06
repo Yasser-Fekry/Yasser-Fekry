@@ -19,8 +19,17 @@ business flows, and real-world attack surfaces.
 
 ## 📊 Weekly Coding Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/a074b1d99d36db5b72c8ef9c1436a074" target="_blank">📊 </a>
+```text
+JavaScript 🕓 2h31m ████████████▉░░░░░░░░░░░░░░░ 46.2%
+TypeScript 🕓 1h6m  █████▋░░░░░░░░░░░░░░░░░░░░░░ 20.2%
+Markdown   🕓 53m   ████▌░░░░░░░░░░░░░░░░░░░░░░░ 16.3%
+JSON       🕓 52m   ████▌░░░░░░░░░░░░░░░░░░░░░░░ 16.1%
+HTML       🕓 2m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.7%
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
+<!-- waka-box end -->
 
 ---
 
