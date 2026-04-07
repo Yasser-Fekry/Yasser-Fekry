@@ -21,11 +21,6 @@ business flows, and real-world attack surfaces.
 
 <!-- waka-box start -->
 ```text
-JavaScript 🕓 2h31m ████████████▉░░░░░░░░░░░░░░░ 46.2%
-TypeScript 🕓 1h6m  █████▋░░░░░░░░░░░░░░░░░░░░░░ 20.2%
-Markdown   🕓 53m   ████▌░░░░░░░░░░░░░░░░░░░░░░░ 16.3%
-JSON       🕓 52m   ████▌░░░░░░░░░░░░░░░░░░░░░░░ 16.1%
-HTML       🕓 2m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.7%
 ```
 <!-- waka-box end -->
 
