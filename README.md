@@ -20,6 +20,15 @@ business flows, and real-world attack surfaces.
 ## 📊 Weekly Coding Stats
 
  <!--START_SECTION:waka-->
+
+```txt
+JavaScript   5 mins                █████████████████████▒░░░   85.63 %
+YAML         0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+JSON         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
