@@ -19,10 +19,8 @@ business flows, and real-world attack surfaces.
 
 ## 📊 Weekly Coding Stats
 
-<!-- waka-box start -->
-
-<!-- waka-box end -->
-
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 ## 🔍 Vulnerabilities I Hunt
