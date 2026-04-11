@@ -20,8 +20,7 @@ business flows, and real-world attack surfaces.
 ## 📊 Weekly Coding Stats
 
 <!-- waka-box start -->
-```text
-```
+
 <!-- waka-box end -->
 
 ---
