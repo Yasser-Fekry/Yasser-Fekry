@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me 🧠
 🛡️ Full-time **Bug Bounty Hunter** and **Security Researcher**
 🎯 Focused on **Web Application Security**
 🧪 Strong believer in **manual testing & logic flaws** over blind automation
@@ -17,7 +17,7 @@ business flows, and real-world attack surfaces.
 
 ---
 
-## 📊 Weekly Coding Stats
+## Weekly Coding Stats 📊 
 
  <!--START_SECTION:waka-->
 
@@ -32,7 +32,7 @@ HTML         0 secs                ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-## 🔍 Vulnerabilities I Hunt
+##  Vulnerabilities I Hunt 🔍
 - Broken Access Control
 - IDOR (Insecure Direct Object Reference)
 - Authentication & Authorization Flaws
