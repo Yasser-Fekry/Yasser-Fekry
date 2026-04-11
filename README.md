@@ -21,9 +21,6 @@ business flows, and real-world attack surfaces.
 
 <!-- waka-box start -->
 
-```txt
-```
-
 <!-- waka-box end -->
 
 ---
