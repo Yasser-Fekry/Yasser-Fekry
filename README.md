@@ -89,7 +89,7 @@ CSS          0 secs                ░░░░░░░░░░░░░░░
   <a href="https://github.com/Yasser-Fekry">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/YasserFekry">
+  <a href="https://linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://t.me/Dev_YasserFekry">
