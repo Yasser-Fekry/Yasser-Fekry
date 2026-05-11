@@ -22,7 +22,8 @@ business flows, and real-world attack surfaces.
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs                █████████████████████████   100.00 %
+Bash         2 mins                █████████████████████░░░░   83.90 %
+JavaScript   0 secs                ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
 ```
 
 <!--END_SECTION:waka-->
