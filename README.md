@@ -22,9 +22,10 @@ business flows, and real-world attack surfaces.
  <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 16 mins          ███████████████████████▓░   94.94 %
-Bash     3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-C        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Python      4 hrs 21 mins         ████████████████████████░   96.18 %
+Batchfile   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Bash        3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+C           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
