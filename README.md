@@ -22,8 +22,8 @@ business flows, and real-world attack surfaces.
  <!--START_SECTION:waka-->
 
 ```txt
-C        59 mins               ████████████████░░░░░░░░░   64.02 %
-Python   33 mins               █████████░░░░░░░░░░░░░░░░   35.98 %
+C        59 mins               ███████████████████████░░   91.82 %
+Python   5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
 ```
 
 <!--END_SECTION:waka-->
