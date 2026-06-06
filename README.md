@@ -1,4 +1,4 @@
-![OffSec|500](https://www.offsec.com/_astro/pen-200.BagY22nu_1KY8g4.svg)
+![OffSec|800](https://www.offsec.com/_astro/pen-200.BagY22nu_1KY8g4.svg)
 <h1 align="left">Hi , I'm Yasser Fekry</h1>
 <h3 align="left">Full-Time Bug Bounty Hunter | Security Researcher | Web Application Penetration Tester</h3>
 <p align="left">
