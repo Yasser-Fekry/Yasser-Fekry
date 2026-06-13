@@ -22,7 +22,7 @@ business flows, and real-world attack surfaces.
  <!--START_SECTION:waka-->
 
 ```txt
-QML   8 mins                █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
