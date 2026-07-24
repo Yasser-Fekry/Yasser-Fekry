@@ -22,11 +22,11 @@ business flows, and real-world attack surfaces.
  <!--START_SECTION:waka-->
 
 ```txt
-HTML         2 hrs 26 mins         ████████████████▒░░░░░░░░   65.62 %
-Python       35 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-JavaScript   27 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-Go           13 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+HTML         2 hrs 31 mins         ███████████████████▒░░░░░   77.50 %
+Python       29 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+JavaScript   13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
