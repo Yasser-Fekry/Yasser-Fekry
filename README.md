@@ -22,11 +22,11 @@ business flows, and real-world attack surfaces.
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 25 mins          ███████████████▒░░░░░░░░░   60.85 %
-TypeScript   39 mins               ███████░░░░░░░░░░░░░░░░░░   28.11 %
-CSS          7 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-Other        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+JavaScript   1 hr 56 mins          █████████████████░░░░░░░░   67.81 %
+TypeScript   39 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
+CSS          7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Other        6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
