@@ -1,100 +1,74 @@
-![OffSec|800](https://www.offsec.com/_astro/pen-200.BagY22nu_1KY8g4.svg)
-<h1 align="left">Hi , I'm Yasser Fekry</h1>
-<h3 align="left">Full-Time Bug Bounty Hunter | Security Researcher | Web Application Penetration Tester</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-red?style=for-the-badge&logo=hackerone" />
-  <img src="https://img.shields.io/badge/Web%20Security-Pentesting-blue?style=for-the-badge&logo=owasp" />
+<h1 align="center">Yasser Fekry</h1>
+<p align="center">
+  <b>Bug Bounty Hunter · Web Application Security Researcher</b><br>
+  I find the bugs scanners miss: broken access control, auth flaws, and business logic.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20AppSec-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Approach-Manual%20First-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Hunting-success?style=flat-square" />
 </p>
 
 ---
 
-##  About Me 🧠
-🛡️ Full-time **Bug Bounty Hunter** and **Security Researcher**
-🎯 Focused on **Web Application Security**
-🧪 Strong believer in **manual testing & logic flaws** over blind automation
-I enjoy breaking applications by deeply understanding their logic,
-business flows, and real-world attack surfaces.
+## 🧠 About Me
+Full-time bug bounty hunter. I start by learning how an application is *supposed* to work (roles, workflows, trust boundaries), then look for where those assumptions break. Automation helps with recon, but the high-impact bugs usually come from reading the logic.
+
+- 🎯 Currently hunting: [programs / platforms]
+- 📚 Currently learning: [e.g. advanced API attacks, race conditions, OAuth]
+- 📝 Writeups: [link to blog / Medium]
 
 ---
 
-## Weekly Coding Stats 📊 
+## 🏆 Track Record
+| Platform | Profile | Highlights |
+|---|---|---|
+| HackerOne | [link] | [rank / reputation / signal] |
+| Bugcrowd | [link] | [rank / P1-P2 count] |
+| Intigriti | [link] | [rank] |
 
- <!--START_SECTION:waka-->
 
-```txt
-JavaScript   12 hrs 15 mins        ███████████████████░░░░░░   75.69 %
-CSS          2 hrs 21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-Markdown     1 hr 11 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-JSON         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-Other        3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-```
+---
 
+## 🔍 What I Hunt
+| Area | Examples |
+|---|---|
+| **Access Control** | IDOR, privilege escalation, broken function-level authorization |
+| **AuthN / AuthZ** | Session flaws, 2FA/reset bypasses, OAuth/JWT misconfigurations |
+| **Business Logic** | Payment/coupon abuse, workflow skipping, race conditions |
+| **Injection & Client-Side** | XSS, CSRF, SQLi |
+| **APIs** | Mass assignment, BOLA/BFLA, excessive data exposure |
+
+---
+
+## 🧰 Toolbox
+**Security:** Burp Suite · Caido · ffuf · nuclei · subfinder · httpx · Nmap · Postman · Bash
+<p>
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,git,docker" />
+</p>
+
+**Dev (for reading code & writing PoCs):**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,mysql,vscode,neovim" />
+</p>
+
+*(Swap in the tools you actually use.)*
+
+---
+
+## 📊 Weekly Coding Stats
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
----
-
-##  Vulnerabilities I Hunt 🔍
-- Broken Access Control
-- IDOR (Insecure Direct Object Reference)
-- Authentication & Authorization Flaws
-- Business Logic Vulnerabilities
-- XSS & CSRF
-- SQL Injection
-- API Security Issues
 
 ---
 
-## 🧰 Tools & Technologies
-### 🔐 Security / OS / Core
+## 🤝 Let's Connect
+Open to private program invites, collaborations, and security consulting.
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,arch,redhat,bash,git,github,docker" />
-  </a>
+  <a href="https://github.com/Yasser-Fekry"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://t.me/Dev_YasserFekry"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-### 🌐 Web & Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,dotnet,npm" />
-  </a>
-</p>
-
-### 🧑‍💻 Dev & Productivity
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,notion,obsidian,ps" />
-  </a>
-</p>
-
-### 📱 Mobile / Cross-Platform (Secondary)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter" />
-  </a>
-</p>
-
----
-
-## 🛠️ Skills
-- Web Application Penetration Testing
-- Bug Bounty Hunting
-- Manual Testing & Logic Analysis
-- OWASP Top 10
-- API Security Testing
-- Authentication & Authorization Testing
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/Yasser-Fekry">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://t.me/Dev_YasserFekry">
-    <img src="https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" />
-  </a>
-</p>
-
----
