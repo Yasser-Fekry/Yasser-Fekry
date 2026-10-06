@@ -20,29 +20,29 @@ Strong believer in **manual testing & logic flaws** over blind automation
 
 ---
 
-## 🧰 Tools & Technologies
-### 🔐 Security / OS / Core
+##  Tools & Technologies
+###  Security / OS / Core:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kali,linux,arch,redhat,bash,git,github,docker" />
   </a>
 </p>
 
-### 🌐 Web & Backend
+###  Web & Backend:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql,dotnet,npm" />
   </a>
 </p>
 
-### 🧑‍💻 Dev & Productivity
+###  Dev & Productivity:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,neovim,notion,obsidian,ps" />
   </a>
 </p>
 
-### 📱 Mobile / Cross-Platform (Secondary)
+### Mobile / Cross-Platform (Secondary):
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter" />
