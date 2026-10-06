@@ -1,4 +1,4 @@
-## Weekly Coding Stats 📊 
+## Weekly Coding Stats:
 
  <!--START_SECTION:waka-->
 
@@ -13,7 +13,7 @@ Other        3 mins                ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-##  About Me 🧠
+##  About Me:
 Full-time **Bug Bounty Hunter** and **Security Researcher**
 Focused on **Web Application Security**
 Strong believer in **manual testing & logic flaws** over blind automation
@@ -75,4 +75,3 @@ Strong believer in **manual testing & logic flaws** over blind automation
 </p>
 
 ---
-I need to improve this broo
