@@ -16,6 +16,8 @@ Python       1 min                 █▒░░░░░░░░░░░░░
 
 ## Language Stats:
 
-![Language Stats](stats/leaderboard_by_repos.png)
+![Language Stats](stats/leaderboard_by_bytes.png)
 
+
+----
 
