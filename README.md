@@ -14,7 +14,7 @@ Python       1 min                 █▒░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-## Language Stats
+## Language Stats:
 
 ![Language Stats](stats/leaderboard_by_repos.png)
 
